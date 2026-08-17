@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-e9j3eb.salamduit.xyz/sitemap.xml
